@@ -1,0 +1,5 @@
+<form action="/upload" method="post" enctype="multipart/form-data">
+  <label for="image">Select an image:</label>
+  <input type="file" id="image" name="image">
+  <input type="submit" value="Upload">
+</form>
